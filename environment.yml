@@ -1,4 +1,4 @@
-name: /Users/mac/opt/anaconda3/envs
+name: example-environment
 channels:
   - defaults
 dependencies:
